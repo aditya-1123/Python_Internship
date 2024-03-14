@@ -8,4 +8,4 @@ for i in range(0,n):
     i=i**2
     print(i)
 
-# OR print([i**2 for i in range(n)])
+# OR [print(i**2) for i in range(n)]
